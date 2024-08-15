@@ -1,0 +1,5 @@
+# Hugo lock file
+/.hugo_build.lock
+
+# Generate site folder
+/public/
