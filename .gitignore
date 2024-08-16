@@ -1,5 +1,6 @@
 # Hugo lock file
 /.hugo_build.lock
 
-# Generate site folder
+# Hugo generated site content
 /public/
+/resources/_gen/
